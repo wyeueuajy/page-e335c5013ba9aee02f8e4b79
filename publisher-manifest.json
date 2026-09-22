@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b974c7fab8c3afe60e8ba860",
+  "owner": "wyeueuajy",
+  "repo": "page-e335c5013ba9aee02f8e4b79",
+  "title": "初落",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e335c5013ba9aee02f8e4b79",
+      "a": "初落",
+      "b": "稳定全球clash加速器",
+      "entity": "初落",
+      "brand": "初落",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "eca39cd4c159d60585b9248fdb8ee796252c92213bffdcbd1aa26c3be7e0a913",
+      "content": {
+        "primary_entity": "初落",
+        "keyword1": "初落",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，Windows、macOS、iOS、Android 与路由器各有适配版本，订阅串可跨端导入。",
+          "AI_CLIENTS_TITLE": "多端客户端选择",
+          "AI_CLOSING_TEXT": "从基础版到团队版按需选，先领取试用订阅，跑通首条线路再续费。",
+          "AI_CLOSING_TITLE": "先试后订",
+          "AI_DESCRIPTION": "，初落按设备数量与流量档位划分订阅，基础版 3 台、旗舰版 5 台、团队版 20 台，月付或年付均可在客户端内导入订阅使用。",
+          "AI_FEATURES_INTRO": "从套餐、设备与订阅周期三个角度切入，快速判断哪一档更贴合日常使用。",
+          "AI_FEATURES_TITLE": "选套餐看三点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、旗舰版 300GB、团队版 1000GB，按实际用量选档可减少闲置。",
+          "AI_FEATURE_TEXT_2": "3 台、5 台、20 台的设备上限对应手机、电脑、路由等组合，家庭共享可选团队版。",
+          "AI_FEATURE_TEXT_3": "月付适合短期体验，年付约等于十个月价格，长期使用按年付更省。",
+          "AI_FEATURE_TITLE_1": "按流量定档",
+          "AI_FEATURE_TITLE_2": "按设备数选",
+          "AI_FEATURE_TITLE_3": "按周期付费",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到客户端订阅导入。",
+          "AI_GUIDE_TITLE": "上手三步",
+          "AI_HERO_INTRO": "初落提供多档流量与设备数量的订阅方案，覆盖基础流媒体解锁与 IPLC 专线游戏加速，客户端支持订阅导入，可在手机、电脑与路由器上分别配置。",
+          "AI_HERO_SUBTITLE": "多档订阅，按设备选",
+          "AI_HIGHLIGHT_1": "三档流量满足不同用量",
+          "AI_HIGHLIGHT_2": "多端客户端订阅导入",
+          "AI_HIGHLIGHT_3": "月付年付灵活切换",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，流量与设备上限逐档提升。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按同时在线设备数与每月流量需求，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "确认所用设备的系统版本与客户端支持情况，阅读订阅导入说明与线路适配要求。",
+          "AI_STEP_TEXT_3": "按客户端文档粘贴订阅串完成导入，启动后切换节点即可开始使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "初落订阅",
+          "AI_FAQ_ANSWER_1": "基础版适合3台以内设备、每月100GB流量；旗舰版适合5台设备、300GB流量并需要游戏加速；团队版支持20台设备和1000GB流量，适合多人共享。",
+          "AI_FAQ_ANSWER_2": "基础版和团队版支持3台与20台设备同时在线，旗舰版支持5台。同一账号在多设备登录时，请确认不超过所选套餐的设备上限。",
+          "AI_FAQ_ANSWER_3": "可以。基础版按年付¥150/年，旗舰版¥350/年，团队版¥850/年，比按月付费更划算，适合长期稳定使用。",
+          "AI_FAQ_ANSWER_4": "旗舰版包含全节点原生流媒体解锁和IPLC专线游戏加速优化，团队版提供VIP专属高带宽节点，基础版支持基础流媒体解锁。",
+          "AI_FAQ_ANSWER_5": "选择套餐后获取订阅链接，在首页或客户端文档查看对应设备的导入步骤。手机、电脑和路由器客户端配置方式不同，请按设备类型操作。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版怎么选？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时登录几台设备？",
+          "AI_FAQ_QUESTION_3": "按年付和按月付有什么区别？",
+          "AI_FAQ_QUESTION_4": "套餐是否支持流媒体和游戏加速？",
+          "AI_FAQ_QUESTION_5": "订阅如何导入到不同客户端？",
+          "AI_FAQ_TITLE": "套餐与使用常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "j6vo0f.cn",
+    "host": "j6vo0f.cn"
+  },
+  "file_hashes": {
+    "index.html": "ca1f1b086e78152b3eac268160f245ec4c9ca06c03bf47182d910000a270fcef",
+    "sitemap.xml": "e3a985e8deb691dd9a368d09c9f8aca452bec3e75ee407e60d5504d92738dae0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "61f0e229d9e94c489c66917168906003a2923ee694d42f28802874a45391c066",
+    "robots.txt": "1ba18a809849cbfa3440f8873ffcfc70b23626ded6ed3a7d444927b01ff3e151",
+    "24fafb424b338ec5a89c7f719e38eab5.txt": "c21ecac1a70bfda218db52cef6cdd207051a283f8f0d00e4159211ffd96878af"
+  },
+  "revision": "357f2148f3d4309fe33acd0e7b5edf493afa4ad8fd92cb51fcb01035d9b303fa"
+}
